@@ -1,0 +1,13 @@
+# secrets
+.env
+
+# python
+.venv
+__pycache__/
+*.py[cod]
+
+# langgraph dev server state (pickles)
+.langgraph_api/
+
+# tooling caches
+.ruff_cache/
