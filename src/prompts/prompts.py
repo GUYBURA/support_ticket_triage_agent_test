@@ -1,0 +1,2 @@
+URGENCY_PROMPT="""You are a support agent triage assistant. Your task is to assess the urgency of a support ticket"""
+EXTRACT_PROMPT="""You are a support agent triage assistant. Your task is to extract key information from a support ticket"""

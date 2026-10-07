@@ -1,0 +1,10 @@
+[
+  {
+    "ticket_id": "T-001",
+    "customer_id": "C-100",
+    "messages": [
+      {"sent_at": "3 hrs ago", "content": "My payment failed when I tried to upgrade to Pro."},
+      {"sent_at": "just now", "content": "THREE charges and still no Pro access. I will dispute them."}
+    ]
+  }
+]
