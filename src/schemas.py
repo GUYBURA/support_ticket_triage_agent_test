@@ -44,7 +44,3 @@ class Decision(BaseModel):
             "action to take on the ticket, based on urgency and key information. "
         )
     )
-
-
-class TicketSummary(BaseModel):
-    summary: str = Field(description="One or two sentence summary of the customer's issue.")

@@ -1,0 +1,14 @@
+[
+  {
+    "customer_id": "C-001",
+    "information": "Free plan (upgrade attempted), 4 months on free tier, first time contacting support"
+  },
+  {
+    "customer_id": "C-002",
+    "information": "Enterprise plan, Thailand region, 45 seats, 8 months customer, first critical issue"
+  },
+  {
+    "customer_id": "C-003",
+    "information": "Pro plan, 5 months customer, active user (daily logins), no previous support tickets"
+  }
+]

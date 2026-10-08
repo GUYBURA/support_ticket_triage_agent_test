@@ -1,0 +1,27 @@
+[
+  {
+    "id": "KB-001",
+    "title": "Pro upgrade payment failed or charged multiple times",
+    "content": "A failed upgrade can leave pending authorization holds on the card. Holds are not real charges and drop off automatically in 3-5 business days. If a charge completed but the plan still shows Free, billing can activate Pro manually and refund duplicate charges. Refunds take 5-10 business days to appear. Duplicate completed charges and chargeback threats should be handled by a billing specialist."
+  },
+  {
+    "id": "KB-002",
+    "title": "Error 500 or system unavailable",
+    "content": "A 500 error affecting multiple users and browsers points to a server-side problem, not the customer's device. The public status page can lag behind regional incidents. Check the internal incident tracker for the customer's region. If several users are affected, treat it as a critical incident and escalate to on-call engineering. Enterprise customers have a 1-hour response SLA."
+  },
+  {
+    "id": "KB-003",
+    "title": "Dark mode and appearance settings",
+    "content": "Dark mode is not yet available. Settings > Appearance offers 'Light' and 'System Default'. 'System Default' follows the OS theme on Windows. On macOS it currently does not, which is a known bug (BUG-2214, fix planned for the next release). Dark mode is on the roadmap but has no release date."
+  },
+  {
+    "id": "KB-004",
+    "title": "Scheduled theme switching",
+    "content": "Scheduled theme switching is not supported. Log it as a feature request with the product team. Do not promise a release date."
+  },
+  {
+    "id": "KB-005",
+    "title": "Reset password and login issues",
+    "content": "Use 'Forgot password' on the sign-in page. Reset links expire after 30 minutes. After 5 failed attempts the account locks for 15 minutes."
+  }
+]
